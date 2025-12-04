@@ -1,0 +1,3 @@
+RedirectMatch ^/$ /carpeta/
+Require all denied
+AllowOverride All
